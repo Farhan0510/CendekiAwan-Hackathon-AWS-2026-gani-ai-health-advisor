@@ -67,8 +67,7 @@ GANI AI:
 - Directs emergency cases to emergency services
 
 ## Screenshots
-
-     
+See Screenshots Folder in the Main Github File     
 
 ## Future Improvements
 
